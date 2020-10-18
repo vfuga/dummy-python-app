@@ -1,2 +1,2 @@
 import sys
-print(sys.version)
+print('Here is a python version:', sys.version)
